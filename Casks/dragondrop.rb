@@ -5,7 +5,7 @@ cask 'dragondrop' do
   url "https://github.com/zzamboni/homebrew-personal/raw/master/files/dragondrop_#{version}_zzamboni.dmg"
   name 'DragonDrop'
   homepage 'https://github.com/zzamboni/homebrew-personal'
-  license :commercial
+#  license :commercial
 
   app 'DragonDrop.app'
 end
